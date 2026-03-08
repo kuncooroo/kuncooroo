@@ -1,16 +1,15 @@
-## Hi there 👋
+![Habib Masyhur](image/github-header-banner.png)
 
-<!--
-**kuncooroo/kuncooroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><strong>Tech Stack</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cpp,dart,opencv,flask,laravel,flutter,tailwind,bootstrap,docker,windows,ubuntu,linux,kali,figma,&theme=light&perline=10" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><strong>Connect With Me</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter" />
+  </a>
+</p>
